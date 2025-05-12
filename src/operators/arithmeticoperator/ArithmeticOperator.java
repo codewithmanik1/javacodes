@@ -1,4 +1,4 @@
-package operators;
+package operators.arithmeticoperator;
 
 //Assignment Operator
 //Arithmetic Operator

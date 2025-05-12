@@ -1,4 +1,4 @@
-package operators;
+package operators.relationaloperators;
 
 //Relational Operators
 public class RelationalOperators {
